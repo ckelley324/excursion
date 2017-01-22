@@ -19,7 +19,7 @@ h2 {
 #footer {
   text-align: right;
 }
-.toplink, .bottomlink {
+.dl {
   color: aquamarine;
   font-size: 16px;
 }
